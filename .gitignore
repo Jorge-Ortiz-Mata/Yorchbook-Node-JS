@@ -1,4 +1,5 @@
-
+# Ignore packages modules
 /node_modules
 
+# Ignore secret keys
 .env
